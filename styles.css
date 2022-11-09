@@ -101,7 +101,7 @@ body {
 }
 
 @media(max-width:700px){
-	body{
+	.mainContainer{
 		grid-template-columns: 1fr;
 		width: 100%;
 	}
