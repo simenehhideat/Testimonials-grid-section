@@ -107,7 +107,7 @@ body {
 	}
 
 	.box:nth-of-type(1) {
-		grid-column: 1;
+		grid-column: 1 / 4;
 		grid-row: 1;
 	}
 
